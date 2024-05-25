@@ -1,0 +1,8 @@
+alias ll='ls -alF'
+alias la='ls -A'
+alias l='ls -CF'
+alias vi='nvim'
+alias menu='ranger'
+alias li='libreoffice'
+alias ztr='zathura'
+alias ff='fastfetch --logo ~/.config/Pictures/violet_1.png --logo-padding-left 1'
